@@ -2,6 +2,7 @@
 This project is a Task Management Portal that allows users to create, view, and manage tasks and tickets. It includes functionalities for user registration, login, forgot password, task creation, and ticket management.
 
 **Table of Contents**
+
 Features
 
 Setup
