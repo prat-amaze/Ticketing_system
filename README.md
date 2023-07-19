@@ -138,5 +138,4 @@ Pratyush Khengle
 
 
 **License**
-
-[License information, if applicable, e.g., MIT License]
+MIT License
